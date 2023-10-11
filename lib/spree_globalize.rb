@@ -3,4 +3,4 @@ require 'spree_globalize/configuration'
 require 'spree_globalize/engine'
 require 'spree_globalize/version'
 require 'spree_globalize/fallbacks'
-
+require 'deface'
